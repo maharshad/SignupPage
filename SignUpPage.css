@@ -1,0 +1,28 @@
+/* src/SignUpPage.css */
+.signup-container {
+    background: linear-gradient(to bottom right, pink, purple);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .signup-content {
+    background: #f2f2f2; /* Greyish background color */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .signup-content img {
+    max-width: 100px;
+    margin-right: 20px;
+  }
+  
+  .signup-heading {
+    color: white;
+  }
+  
+  /* Add styles for input fields, buttons, and other elements as needed */
+  
